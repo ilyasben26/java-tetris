@@ -2,7 +2,13 @@
 
 A tetris clone made in Java by following this [tutorial](https://www.youtube.com/watch?v=dgVh6S8X25k&list=PL8wKnrrMApCoP9xTwOmQRHsZ8_Kr9c_DY). 
 
-## What I learned:
+## Getting Started:
+1. Make sure you have Java 17 or later using `java --version`
+2. Download the `Tetris.jar` file from the release
+3. Run `java -jar Tetris.jar`
+
+
+## What I learned from this project:
 - Using the Java Swing library
 - Core OOP concepts such as:
   - Inheritance
